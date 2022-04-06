@@ -11,6 +11,8 @@ console.log(server)
 
 
 /*
+https://nodejs.org/docs/latest-v14.x/api/os.html
+
 os.EOL
 os.arch()
 os.constants
