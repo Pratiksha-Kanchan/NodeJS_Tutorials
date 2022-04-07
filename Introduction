@@ -8,3 +8,11 @@
     The process module is a global module that gives access to information about the Node.js runtime environment.
     The os module provides methods to retrieve information about the computer, operating system, and network interfaces.
     The util module contains methods used to maintain and debug your code.
+    
+    
+
+    Use console.count() to log how many times a function is called.
+    Use process.emitWarning() to create and log a custom warning message to the terminal.
+    Use os.freemem() to check how much free system memory is available in the learning environment.
+    Use util.format() to log a formatted object to the terminal.
+
